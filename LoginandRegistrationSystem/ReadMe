@@ -1,0 +1,2 @@
+This is a login and registration system
+- Asks user whether they wanna register or login, if they register the user input is saved into a file using <fstream> and later read on in to verify credentials.
